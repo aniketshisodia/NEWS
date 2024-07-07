@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^5.3.4",
+    "react-top-loading-bar": "^2.3.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
